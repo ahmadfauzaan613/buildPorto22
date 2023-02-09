@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b2bfe6b.css",
+    "main.js": "/static/js/main.af119b42.js",
+    "static/js/787.c4cb65b9.chunk.js": "/static/js/787.c4cb65b9.chunk.js",
+    "static/media/serti1.jpg": "/static/media/serti1.9aae03ad54db9856d946.jpg",
+    "static/media/serti2.jpg": "/static/media/serti2.5dc6d957505e23e64696.jpg",
+    "static/media/serti3.jpg": "/static/media/serti3.530ec21c9c31a25a9bc4.jpg",
+    "static/media/web1.JPG": "/static/media/web1.c7a986413b7e20ffef59.JPG",
+    "static/media/ahmad-fauzan-resume.pdf": "/static/media/ahmad-fauzan-resume.653e20b3831e6f39759f.pdf",
+    "static/media/dl1.JPG": "/static/media/dl1.678de9906dfb9852d1ba.JPG",
+    "static/media/webTile.png": "/static/media/webTile.7cf5c710cbefc2ea1936.png",
+    "static/media/top.png": "/static/media/top.c98cc8b84123f5f1995d.png",
+    "static/media/WebBadhi.png": "/static/media/WebBadhi.01cf566a075f44013226.png",
+    "static/media/night.png": "/static/media/night.042697b0e28fe2b6520c.png",
+    "index.html": "/index.html",
+    "main.8b2bfe6b.css.map": "/static/css/main.8b2bfe6b.css.map",
+    "main.af119b42.js.map": "/static/js/main.af119b42.js.map",
+    "787.c4cb65b9.chunk.js.map": "/static/js/787.c4cb65b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2bfe6b.css",
+    "static/js/main.af119b42.js"
+  ]
+}
